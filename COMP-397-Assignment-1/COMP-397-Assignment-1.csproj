@@ -70,10 +70,10 @@
     <Content Include="css\styles.css" />
     <Content Include="images\dead.jpg" />
     <Content Include="images\dead1.jpg" />
-    <Content Include="images\intro.jpg" />
     <Content Include="images\landmine.jpg" />
     <Content Include="images\search.jpg" />
-    <Content Include="images\sniper.jpg" />
+    <Content Include="images\sol.png" />
+    <Content Include="images\wargame.jpg" />
     <Content Include="index.html" />
     <Content Include="js\impress.js" />
     <Content Include="Web.config" />

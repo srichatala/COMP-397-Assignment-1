@@ -1,67 +1,67 @@
 ﻿body {
-    background:url(../images/intro.jpg);
+    background:url(../images/wargame.jpg);
 }
 h1 {
     font-size:large;
     color:yellow;
 }
 #intro {
-     background:url(../images/search.jpg) no-repeat;
+     background:url(../images/sol.png) no-repeat;
+    color:#ff6a00;
+}
+#route1{
+    background:url(../images/search.jpg);
     color:greenyellow;
 }
-#root1{
-    background:url(../images/search.jpg) no-repeat;
+#route2 {
+    background:url(../images/search.jpg);
     color:greenyellow;
 }
-#root2 {
-    background:url(../images/search.jpg) no-repeat;
+#route3 {
+    background:url(../images/search.jpg);
     color:greenyellow;
 }
-#root3 {
-    background:url(../images/search.jpg) no-repeat;
+#route4 {
+    background:url(../images/search.jpg);
     color:greenyellow;
 }
-#root4 {
-    background:url(../images/search.jpg) no-repeat;
+#route5 {
+    background:url(../images/search.jpg);
     color:greenyellow;
 }
-#root5 {
-    background:url(../images/search.jpg) no-repeat;
+#route6 {
+    background:url(../images/search.jpg);
     color:greenyellow;
 }
-#root6 {
-    background:url(../images/search.jpg) no-repeat;
-    color:greenyellow;
-}
-#root7 {
+#route7 {
     background:url(../images/dead.jpg) no-repeat;
     color:red;
 }
-#root8 {
+#route8 {
     background:url(../images/landmine.jpg) no-repeat;
     color:red;
 }
-#root9 {
+#route9 {
     background:url(../images/landmine.jpg) no-repeat;
     color:red;
 }
-#root10 {
+#route10 {
     background:url(../images/dead.jpg) no-repeat;
     color:red;
 }
-#root11 {
+#route11 {
     background:url(../images/landmine.jpg) no-repeat;
     color:red;
 }
-#root12 {
+#route12 {
     background:url(../images/dead.jpg) no-repeat;
     color:red;
 }
-#root13 {
+#route13 {
     background:url(../images/dead.jpg) no-repeat;
     color:red;
 }
-#root14 {
-    background:url(../images/dead1.jpg) no-repeat;
+#route14 {
+    background:url(../images/dead1.jpg);
     color:yellow;
 }
